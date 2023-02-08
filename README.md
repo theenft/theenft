@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Is
 - 👀 I’m interested in AI/ML and Blockchain as they relate to unlocking the creative economy
-- 🌱 I’m currently learning Full-Stack Web3 Development
+- 🌱 I’m currently a Full-Stack Web3 Development
 - 💞️ I’m looking to collaborate on products and events that promote blockchain adoption through culture and entertainment
 - 📫 How to reach me israel@theenft.com
 
